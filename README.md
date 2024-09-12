@@ -26,7 +26,7 @@ This project is an in-depth study of the current challenges in diagnosing prosta
 - **Overdiagnosis Concern**: Many men diagnosed with prostate cancer through screening would not have experienced clinical symptoms or mortality from the disease, raising concerns about unnecessary treatments.
   
 ## Visuals
-- Figures on prostate cancer prevalence, PSA levels, and prostate gland images are included in the [project PDF](./path_to_pdf).
+- Figures on prostate cancer prevalence, PSA levels, and prostate gland images are included in the [project PDF](https://github.com/rainaislam/prostate-cancer-diagnosis-project/blob/main/Challenges-in-prostate-cancer-diagnosis.pdf).
 
 ## Conclusion
 Prostate cancer diagnosis remains a challenge, with a need for better tools to distinguish between aggressive and indolent cancers. Emerging biomarkers and next-generation diagnostic tools offer hope for more accurate screening, though more clinical trials are required.
