@@ -39,4 +39,4 @@ Prostate cancer diagnosis remains a challenge, with a need for better tools to d
 - [1] Sharma, S., Zapatero-Rodríguez, J., & O'Kennedy, R. (2017). Prostate cancer diagnostics: Clinical challenges and the ongoing need for disruptive and effective diagnostic tools. Biotechnology Advances.
 - [2] Saranyutanon, S. et al. (2019). Therapies targeted to androgen receptor signaling axis in prostate cancer: Progress, challenges, and hope. Cancers.
 
-[Download full project report (PDF)](./path_to_pdf)
+[Download full project report (PDF)](https://github.com/rainaislam/prostate-cancer-diagnosis-project/blob/main/Challenges-in-prostate-cancer-diagnosis.pdf)
